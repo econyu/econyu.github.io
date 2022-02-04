@@ -51,11 +51,11 @@ author:
 menu:
   - title:             博客
     url:               /blog/
-  - title:             Projects
+  - title:             旅人
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
+  - title:             音乐
+    url:               /me/
+  - title:             小站说明书
     url:               /docs/
 
 # Add links to the footer.
