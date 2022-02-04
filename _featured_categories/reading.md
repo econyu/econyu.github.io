@@ -3,14 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: 生活
+title: 书读完了
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 生活
+slug: 书读完了
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  宇宙可能没经过有意设计，它几乎肯定也不是想表达些什么，但也不是全然杂乱无章。
+  买书如山倒，读书如抽丝。
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
