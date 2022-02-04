@@ -3,15 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: Example
+title: 生活
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: 生活
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  宇宙可能没经过有意设计，它几乎肯定也不是想表达些什么，但也不是全然杂乱无章。
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
