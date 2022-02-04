@@ -1,9 +1,13 @@
 ---
-layout: about
-title: 关于小站
-permalink: /about/
+title: School of Art & Science
+description: >
+  每个人都觉得自己有缺点。除了自己的音乐品味。
+hide_description: true
+sitemap: false
+permalink: /me/
 ---
-非计算机相关专业，只算业余爱好，我对好看的、有意思的小站设计与搭建感兴趣。在不断学习并加入各种功能，小站目前是一个小缝合怪。欢迎各路大神提供帮助！
+
+每个人都觉得自己有缺点。除了自己的音乐品味。
 
 ## Credits & References  
 本站框架Fork自Hydejack  
