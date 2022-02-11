@@ -266,6 +266,9 @@ hydejack:
 
   # TODO
   hide_last_modified:  false
+  
+  # Cover???
+  cover:               true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
