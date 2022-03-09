@@ -18,6 +18,7 @@ sitemap: false
 我是一个宏观经济学家，要不断学习📚才有饭吃🍚。但这里只记录生活，不涉及任何专业评论和建议。
 
 >Do not start a blog. That will only establish your lack of seriousness as a scholar. 
+>
 >---Greg Mankiw
 
 
