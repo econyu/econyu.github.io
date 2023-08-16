@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Age of Tea and Wine | 茶与酒的时代
+title: 三十而立
 image: /assets/img/blog/30yrs.png
 accent_image: 
   background: url('/assets/img/blog/30yrs.png') center/cover
@@ -8,12 +8,21 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  星球往事 卷一 4.
+  为啥不隐藏？
 invert_sidebar: true
 ---
 
-[![HitCount](http://hits.dwyl.com/econyu/2022-04-08-tea-and-wine.svg?style=flat)](http://hits.dwyl.com/econyu/2022-04-08-tea-and-wine)
+[![HitCount](http://hits.dwyl.com/econyu/2022-02-09-thirty.svg?style=flat)](http://hits.dwyl.com/econyu/2022-02-09-thirty)
 
+“史前文明的旅行者寿命都很短，高级智慧生命从不进行时空旅行。”
+
+ “为什么？”
+
+ “这毫无疑义。”
+
+——《时空追缉》
+
+### I.奥德赛
 
 杰克马隐隐觉得今天会霉运附身。他早上起来喂鱼，发现鱼缸里丢了一只金鱼。
 
