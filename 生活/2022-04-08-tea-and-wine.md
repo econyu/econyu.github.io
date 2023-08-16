@@ -1,3 +1,4 @@
+---
 layout: post
 title: Age of Tea and Wine | 茶与酒的时代
 image: /assets/img/blog/30yrs.png
@@ -9,7 +10,7 @@ theme_color: '#ccc'
 description: >
   A memo for 30.
 invert_sidebar: true
-
+---
 
 
 杰克马隐隐觉得今天会霉运附身。他早上起来喂鱼，发现鱼缸里丢了一只金鱼。
