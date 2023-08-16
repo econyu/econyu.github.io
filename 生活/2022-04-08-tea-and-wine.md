@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  A memo for 30.
+  星球往事 卷一 4.
 invert_sidebar: true
 ---
 
