@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 茶与酒的时代|The Age of Tea and Wine
-image: /assets/img/blog/30yrs.png
+image: /assets/img/blog/tea.jpg
 accent_image: 
-  background: url('/assets/img/blog/30yrs.png') center/cover
+  background: url('/assets/img/blog/tea.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
