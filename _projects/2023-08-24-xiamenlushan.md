@@ -8,7 +8,7 @@ date: 24 Aug 2023
 image: 
   path: /assets/img/blog/poyang.jpg
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
+    1920w: /assets/img/blog/poyang.jpg
     960w:  /assets/img/projects/qwtel@0,5x.jpg
     480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
