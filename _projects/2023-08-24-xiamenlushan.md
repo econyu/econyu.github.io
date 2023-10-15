@@ -53,8 +53,6 @@ sitemap: false
 
 ![pic](\assets\img\blog\xiamenlushan\06.jpg){:height="40%" width="40%"}
 
-<img align="right" src="https://https://github.com/econyu/econyu.github.io/assets/img/blog/xiamenlushan/08.jpg"/>
-
 考虑到厦门景点并不多，我们的行程还增加了一个土楼-云水谣古镇一日游。福建的另一个特色就是土楼，《大鱼海棠》即是取了土楼背景。古镇则是因为同名电影《云水谣》而出名。考虑到厦门景点并不多，我们的行程还增加了一个土楼-云水谣古镇一日游。福建的另一个特色就是土楼，《大鱼海棠》即是取了土楼背景。古镇则是因为同名电影《云水谣》而出名。
 
 ![pic](\assets\img\blog\xiamenlushan\08.jpg){:height="40%" width="40%"}
