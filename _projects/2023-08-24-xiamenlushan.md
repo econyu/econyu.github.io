@@ -3,9 +3,8 @@ layout: project
 title: 厦门-庐山
 caption: Family Trip, 2023 Summer.
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
+  回国之后，疫情之后的重启family trip. Good to write it down.
+date: 24 Aug 2023
 image: 
   path: /assets/img/blog/poyang.jpg
   srcset: 
@@ -21,8 +20,6 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-
-回国之后，疫情之后的重启family trip. Good to write it down.
 
 2023年夏天要结束的时候，我才基本忙完手上欠下的活，和父母一起重启了家庭旅行。
 
