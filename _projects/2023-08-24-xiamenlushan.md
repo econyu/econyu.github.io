@@ -31,7 +31,7 @@ sitemap: false
 
 在厦门住在中山公园旁，是老城区。其实挺有一番味道的，花鸟市场，老房子，仿佛回到了二十年前的街巷。路过老别墅区，估计房主在海峡的对岸。
 
-![pic](\assets\img\blog\xiamenlushan\01.jpg){:height="40%" width="40%"}      ![pic](\assets\img\blog\xiamenlushan\02.jpg){:height="40%" width="40%"}
+![pic](\assets\img\blog\xiamenlushan\01.jpg){:height="45%" width="45%"}            ![pic](\assets\img\blog\xiamenlushan\02.jpg){:height="45%" width="45%"}
 
 徒步到隔壁的中山路步行街，感觉其实并没有很繁华的样子，很像城市里过气的步行街，卖点特产什么的，忽悠忽悠游客。后来才发现热闹的地方在隔壁南区和半坡尾。
 
@@ -41,21 +41,19 @@ sitemap: false
 
 鼓浪屿天气不错。坐船从厦鼓码头出发，坐到鼓浪屿背后的内厝澳码头上岸。走过林荫与海岸，走过鼓浪石与海岸边孤零零的碉堡“群”。海边的湿热感逐渐加重，趁着有力气，爬上了日光岩，一览岛上风光。屿上的老建筑和屿外的远处高楼形成了一幅经典的时代剪影，讲述着这座城市的过去与现在。比较有意思的是部队占据着第二高峰，远山的雷达似乎还在工作。
 
-![pic](\assets\img\blog\xiamenlushan\07.jpg){:height="40%" width="40%"}        ![pic](\assets\img\blog\xiamenlushan\04.jpg){:height="40%" width="40%"}
+![pic](\assets\img\blog\xiamenlushan\07.jpg){:height="45%" width="45%"}            ![pic](\assets\img\blog\xiamenlushan\04.jpg){:height="45%" width="45%"}
 
 屿上的景点还看了菽庄花园、皓月园等等。菽庄花园靠海，原主人修筑了一座四十四桥，听海藏月，倒也将文人的雅韵带到了这个海角。钢琴博物馆以前是一座小别墅，现在更像是一座琴房，存放了不少上百年的钢琴。
 
 皓月园的观海长廊，遥看厦门地标双子塔。郑成功的雕塑，向着台湾的方向无声凝望。
 
-![pic](\assets\img\blog\xiamenlushan\05.jpg){:height="40%" width="40%"}
+![pic](\assets\img\blog\xiamenlushan\05.jpg){:height="45%" width="45%"}
 
 屿上还有许多各国老建筑。福音堂、基督堂；汇丰银行日本人、美国人的领事馆旧址；四落大厝、旧宅别墅，还有解放前的中共福建省委机关旧址，都错落在曲曲长长的街巷里。屿上商业化的气氛与游人的攒动相辅相成，但也离想象中的“慢时光”相去甚远。真走进一家咖啡馆，也并不是静下来享受一份宁静，而是单纯的歇脚。早上九点半登上鼓浪屿，走走停停到下午五六点，绕过半个屿到三秋田码头返程，走下来还是比较费腿，不过基本上也走马观花把前面提到的那些个主要景点逛完了。
 
 ![pic](\assets\img\blog\xiamenlushan\06.jpg){:height="40%" width="40%"}
 
-考虑到厦门景点并不多，我们的行程还增加了一个土楼-云水谣古镇一日游。福建的另一个特色就是土楼，《大鱼海棠》即是取了土楼背景。古镇则是因为同名电影《云水谣》而出名。
-
-![pic](\assets\img\blog\xiamenlushan\08.jpg){:height="40%" width="40%"}
+考虑到厦门景点并不多，我们的行程还增加了一个土楼-云水谣古镇一日游。福建的另一个特色就是土楼，《大鱼海棠》即是取了土楼背景。古镇则是因为同名电影《云水谣》而出名。![pic](\assets\img\blog\xiamenlushan\08.jpg){:height="40%" width="40%"}
 
 顾名思义，土楼就地取材，用黄泥土混合当地的竹子筑造而成。土楼有圆形也有方形，外墙可厚达半米。土楼一般一楼养牲口堆杂物，二楼起储存作用比如存粮，三楼才开始住人。圆形的土楼也保证了每一间房都是一样的，不存在位置或者大小不好的房间（“方便分家”，导游如是说）。土楼中的怀远楼最为出名，带有雕刻的室内横梁让其得到了“精装楼”的称呼。另一个出名的是和贵楼，清朝时期先后出过数名进士、官至布政使司理。和贵楼特色有二，一是建于沼泽之上，两百多年屹立不倒。这得益于其特别的地基搭建工艺，使其像船一样“浮于”沼泽地上。其二，土楼内有阴阳二井，一口井水浑浊不清而另一口却清澈明亮。这源于石井材质不同，清水井是大理石铸造，天然起到了过滤作用。
 
@@ -63,7 +61,7 @@ sitemap: false
 
 公园（遗址？）比较有趣的是号称世界上最大的广播喇叭，当年向金门方向喊话。向远方眺望，只能模模糊糊能看到金门岛，而且现在正在被施工中的机场遮蔽。
 
-![pic](\assets\img\blog\xiamenlushan\09.jpg){:height="40%" width="40%"}![pic](\assets\img\blog\xiamenlushan\10.jpg){:height="40%" width="40%"}
+![pic](\assets\img\blog\xiamenlushan\09.jpg){:height="45%" width="45%"}            ![pic](\assets\img\blog\xiamenlushan\10.jpg){:height="45%" width="45%"}
 
 时光飞逝，历史的车轮滚滚向前。
 
