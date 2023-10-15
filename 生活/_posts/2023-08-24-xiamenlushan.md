@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 厦门-庐山
-image: /assets/img/blog/30yrs.png
+image: /assets/img/blog/Poyang.heic
 accent_image: 
-  background: url('/assets/img/blog/30yrs.png') center/cover
+  background: url('/assets/img/blog/Poyang.heic') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
@@ -22,7 +22,7 @@ invert_sidebar: true
 
 去厦门是母亲提出来的。去海边，去看看鼓浪屿。夏季的厦门是可以想象的炎热，实际的体感更令人印象深刻：南部沿海不光是热，还潮湿。飞机抵达高崎机场刚过中午，看到机场在市区（岛上）感到很新奇。路上听说新机场修在大嶝岛，一看地图，这怕是不光要停客机，还要起降战斗机。
 
-html <div align=center> <img src="/assets/img/blog/30yrs.png" width = 80%/> </div>
+html <div align=center> <img src="/assets/img/blog/Poyang.heic" width = 80%/> </div>
 
 在厦门住在中山公园旁，是老城区。其实挺有一番味道的，花鸟市场，老房子，仿佛回到了二十年前的街巷。
 
@@ -76,7 +76,9 @@ html <div align=center> <img src="/assets/img/blog/30yrs.png" width = 80%/> </di
 
 过往的风云际会不再，而庐山的山清水秀不改。XX的诗写得好：完整地逛庐山要走完两条线：西线走花径，仙人洞；过电站大坝，从黄龙寺到芦林湖，路过别墅区看美庐别墅与庐山会议旧址，回牯岭镇。路上每个站点都有大巴车，但是要全部看完时间还是有点紧。东线则是含鄱口，五老峰和三叠泉。东线徒步较多，特别是“不到三叠泉，不是庐山客”，三叠泉的步行必经路程尤为陡峭，即使坐缆车坐一段也还有往返2600级的台阶上下。
 
-【三叠泉】
+```text
+![这是图片](/assets/img/blog/sandie.heic "三叠泉")
+```
 
 # Part 3 南昌
 
