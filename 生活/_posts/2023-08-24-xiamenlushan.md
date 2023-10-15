@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 厦门-庐山
-image: /assets/img/blog/Poyang.png
+image: /assets/img/blog/poyang.png
 accent_image: 
-  background: url('/assets/img/blog/Poyang.png') center/cover
+  background: url('/assets/img/blog/poyang.png') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
