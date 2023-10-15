@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 厦门-庐山
-image: /assets/img/blog/Poyang.heic
+image: /assets/img/blog/Poyang.png
 accent_image: 
-  background: url('/assets/img/blog/Poyang.heic') center/cover
+  background: url('/assets/img/blog/Poyang.png') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
@@ -77,7 +77,7 @@ html <div align=center> <img src="/assets/img/blog/Poyang.heic" width = 80%/> </
 过往的风云际会不再，而庐山的山清水秀不改。XX的诗写得好：完整地逛庐山要走完两条线：西线走花径，仙人洞；过电站大坝，从黄龙寺到芦林湖，路过别墅区看美庐别墅与庐山会议旧址，回牯岭镇。路上每个站点都有大巴车，但是要全部看完时间还是有点紧。东线则是含鄱口，五老峰和三叠泉。东线徒步较多，特别是“不到三叠泉，不是庐山客”，三叠泉的步行必经路程尤为陡峭，即使坐缆车坐一段也还有往返2600级的台阶上下。
 
 ```text
-![这是图片](/assets/img/blog/sandie.heic "三叠泉")
+![这是图片](/assets/img/blog/sandie.png "三叠泉")
 ```
 
 # Part 3 南昌
