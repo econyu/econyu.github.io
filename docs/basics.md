@@ -61,8 +61,8 @@ To add links to the sidebar, populate the `menu` entry in `_config.yml` with a l
 menu:
   - title: Blog
     url:   /blog/
-  - title: Projects
-    url:   /projects/
+  - title: Travel
+    url:   /travel/
   - title: Resume
     url:   /resume/
   - title: About
@@ -274,9 +274,9 @@ The welcome layout also supports selecting specific projects and posts, by addin
 # file: `index.md`
 ---
 selected_projects:
-  - _projects/hydejack-v6.md
-  - /projects/hyde-v2/
-projects_page: projects.md
+  - _travel/hydejack-v6.md
+  - /travel/hyde-v2/
+projects_page: travel.md
 selected_posts:
   - _posts/2017-05-03-javascripten.md
   - /blog/2012-02-07-example-content/
@@ -321,22 +321,22 @@ First, you need to make sure that you have the `projects` collection defined in 
 ~~~yml
 # file: `_config.yml`
 collections:
-  projects:
-    permalink: /projects/:path/
+  travel:
+    permalink: /travel/:path/
     output:    true
 ~~~
 
-Next, add a `projects.md` to in the root (you can adjust the name/location to match the `permalink` of the
+Next, add a `travel.md` to in the root (you can adjust the name/location to match the `permalink` of the
 collection).
 This file has the `projects` layout (mind the "s" at the end) and should have a `show_collection` key,
 with the name of the collection as a value, e.g.:
 
 ~~~yml
-# file: `projects.md`
+# file: `travel.md`
 ---
 layout:          projects
-title:           Projects*
-show_collection: projects
+title:           Travel
+show_collection: travel
 featured:        true
 ---
 ~~~

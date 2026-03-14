@@ -52,7 +52,7 @@ menu:
   - title:             博客
     url:               /blog/
   - title:             旅人
-    url:               /projects/
+    url:               /travel/
   - title:             音乐
     url:               /me/
   - title:             小站说明书
@@ -301,8 +301,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  travel:
+    permalink:         /travel/:path/
     output:            true
 
 
@@ -417,13 +417,13 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
-    projects:
+    travel:
       layout: project
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
       links:
-        - title: Project Link
+        - title: Travel Link
           url: https://example.com
