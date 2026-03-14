@@ -14,5 +14,6 @@ image:
 links:
   - title: Link
     url: https://hydejack.com/
+accent_image: /assets/img/projects/hydejack-site.jpg
 sitemap: false
 ---

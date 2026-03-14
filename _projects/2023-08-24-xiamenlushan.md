@@ -15,8 +15,7 @@ links:
   - title: Link
     url: https://baidu.com/
 accent_color: '#4fb1ba'
-accent_image:
-  background: '#193747'
+accent_image: /assets/img/blog/poyang.jpg
 theme_color: '#193747'
 sitemap: false
 ---
